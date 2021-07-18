@@ -1,1 +1,1 @@
-react + custom bootstrap
+react + custom bootstrap + swapi.dev
