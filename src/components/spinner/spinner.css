@@ -62,7 +62,7 @@
 .lds-double-ring div:nth-child(2) {
   width: 140px;
   height: 140px;
-  top: 30px;
+  top: 25px;
   left: 30px;
   border-color: transparent #cc4545 transparent #cc4545;
   -webkit-animation: lds-double-ring_reverse 1.5s linear infinite;
